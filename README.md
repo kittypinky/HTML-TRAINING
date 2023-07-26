@@ -22,4 +22,9 @@ Learning HTML
   <td>Activity-3</td>
   <td>External javasacript</td>
   </tr>
+  <tr>
+  <td>4</td>
+  <td>Activity-4</td>
+  <td>no Script tag</td>
+  </tr>
 </table>
