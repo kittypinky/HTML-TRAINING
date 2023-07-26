@@ -1,0 +1,9 @@
+h1{
+    color:green;
+
+}
+h2{color:aqua}
+
+h1,h2{
+    text-allign:center;
+}

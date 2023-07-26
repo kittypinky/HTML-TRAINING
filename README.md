@@ -27,4 +27,9 @@ Learning HTML
   <td>Activity-4</td>
   <td>no Script tag</td>
   </tr>
+  <tr>
+  <td>5</td>
+  <td>Activity-5</td>
+  <td>create a external CSS and link using link tag </td>
+  </tr>
 </table>
