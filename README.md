@@ -57,4 +57,9 @@ Learning HTML
   <td>Activity-10</td>
   <td>background image for body</td>
   </tr>
+   <tr>
+  <td>11</td>
+  <td>Activity-11</td>
+  <td>Anchor tags</td>
+  </tr>
 </table>
