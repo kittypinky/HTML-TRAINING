@@ -37,4 +37,14 @@ Learning HTML
   <td>Activity-6</td>
   <td>insert icons for web doc</td>
   </tr>
+  <tr>
+  <td>7</td>
+  <td>Activity-7</td>
+  <td>title for web development</td>
+  </tr>
+  <tr>
+  <td>8</td>
+  <td>Activity-8</td>
+  <td>Internal style sheet</td>
+  </tr>
 </table>
