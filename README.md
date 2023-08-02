@@ -77,4 +77,9 @@ Learning HTML
   <td>Activity-14</td>
   <td>provide border to the same table</td>
   </tr>
+  <tr>
+  <td>15</td>
+  <td>Activity-15</td>
+  <td>headings from h1 to h6</td>
+  </tr>
 </table>
